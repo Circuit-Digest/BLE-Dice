@@ -1,4 +1,4 @@
-# [BLE-Dice](https://circuitdigest.com/microcontroller-projects/)
+# [BLE-Dice](https://circuitdigest.com/microcontroller-projects/how-to-build-a-smart-led-dice)
 An electronics dice with BluetoothLE connectivity.
 <img src="https://github.com/jobitjoseph/BLE-Dice/blob/987e73fd6e5523df1acec939faffb1c9fbee4ce0/Documents%20%26%20Images/Dice%203D.PNG" width="" alt="alt_text" title="image_tooltip">
 <br>
